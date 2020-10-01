@@ -1,7 +1,7 @@
 # Allowing Facebook Crawler
 
 User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
-Disallow: /
+Allow: /
 
 User-agent: facebookexternalhit/1.1
-Disallow: /
+Allow: /
